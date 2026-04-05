@@ -27,7 +27,7 @@ permalink: /
 			<a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank" style="color:#1976d2;text-decoration:underline;">Prof. Ningyuan Chen</a> and 
 			<a href="https://hanshengjiang.github.io/index.html" target="_blank" style="color:#1976d2;text-decoration:underline;">Prof. Hansheng Jiang</a>.
 			Prior to my Ph.D., I received my M.Sc. in Biostatistics and my B.Sc. in Mathematical Applications in Economics and Finance, Statistics, and Actuarial Science from the University of Toronto.<br><br>
-			My research lies broadly in revenue management, specifically data-driven decision-making. My recent work proposes a systematic way to improve predict-then-optimize decisions through post-estimation adjustments. I also work on urban retail mix planning, using large-scale mobility data to guide how cities can plan vacant storefronts to revitalize neighborhoods.
+			My research lies broadly in revenue management, specifically data-driven decision-making. My recent work proposes a systematic way to improve predict-then-optimize decisions through post-estimation adjustments. I also work on urban retail mix planning, using large-scale mobility data to guide how cities can fill vacant storefronts and revitalize neighborhoods.
 		</div>
 
 		<h2 style="margin-bottom:0.5em;">News</h2>
