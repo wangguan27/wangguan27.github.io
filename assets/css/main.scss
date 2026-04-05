@@ -41,3 +41,19 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* 响应式布局：电脑端左右分栏，手机端单列 */
+@media (max-width: 700px) {
+  .main-flex-container {
+    flex-direction: column !important;
+    gap: 0 !important;
+    align-items: center !important;
+    max-width: 100vw !important;
+    padding: 0 0 !important;
+  }
+  .main-flex-container > div {
+    width: 100% !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+}
