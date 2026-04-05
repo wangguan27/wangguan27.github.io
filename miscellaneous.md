@@ -21,12 +21,26 @@ title: "Miscellaneous"
 
     <h2 style="margin-bottom:0.3em;">Film &amp; Series</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:16px;">
-      Outside of research, I enjoy films and TV series. Some of my favorite films include <a href="https:/    git add .
-    git commit -m "fix: 所有主页面响应式布局，手机端单列"
-    git push origin master/www.imdb.com/title/tt0068646/" style="color:#1976d2;text-decoration:none;"><em>The Godfather</em></a>, <a href="https://www.imdb.com/title/tt10168220/" style="color:#1976d2;text-decoration:none;"><em>A Bright Moon</em></a>, <a href="https://www.imdb.com/title/tt0097165/" style="color:#1976d2;text-decoration:none;"><em>Dead Poets Society</em></a>, <a href="https://www.imdb.com/title/tt1063669/" style="color:#1976d2;text-decoration:none;"><em>The Wave</em></a>, <a href="https://www.imdb.com/title/tt0093389/" style="color:#1976d2;text-decoration:none;"><em>The Last Emperor</em></a>, <a href="https://www.imdb.com/title/tt0106332/" style="color:#1976d2;text-decoration:none;"><em>Farewell My Concubine</em></a>, <a href="https://www.imdb.com/title/tt0110413/" style="color:#1976d2;text-decoration:none;"><em>Léon: The Professional</em></a>, <a href="https://www.imdb.com/title/tt0109688/" style="color:#1976d2;text-decoration:none;"><em>Ashes of Time</em></a>, <a href="https://www.imdb.com/title/tt0397535/" style="color:#1976d2;text-decoration:none;"><em>Memoirs of a Geisha</em></a>, and <a href="https://www.imdb.com/title/tt7479784/" style="color:#1976d2;text-decoration:none;"><em>The Bold, the Corrupt, and the Beautiful</em></a>.
+      Outside of research, I enjoy films and TV series. Some of my favorite films include
+      <a href="https://www.imdb.com/title/tt0068646/" style="color:#1976d2;text-decoration:none;"><em>The Godfather</em></a>,
+      <a href="https://www.imdb.com/title/tt10168220/" style="color:#1976d2;text-decoration:none;"><em>A Bright Moon</em></a>,
+      <a href="https://www.imdb.com/title/tt0097165/" style="color:#1976d2;text-decoration:none;"><em>Dead Poets Society</em></a>,
+      <a href="https://www.imdb.com/title/tt1063669/" style="color:#1976d2;text-decoration:none;"><em>The Wave</em></a>,
+      <a href="https://www.imdb.com/title/tt0093389/" style="color:#1976d2;text-decoration:none;"><em>The Last Emperor</em></a>,
+      <a href="https://www.imdb.com/title/tt0106332/" style="color:#1976d2;text-decoration:none;"><em>Farewell My Concubine</em></a>,
+      <a href="https://www.imdb.com/title/tt0110413/" style="color:#1976d2;text-decoration:none;"><em>Léon: The Professional</em></a>,
+      <a href="https://www.imdb.com/title/tt0109688/" style="color:#1976d2;text-decoration:none;"><em>Ashes of Time</em></a>,
+      <a href="https://www.imdb.com/title/tt0397535/" style="color:#1976d2;text-decoration:none;"><em>Memoirs of a Geisha</em></a>,
+      and
+      <a href="https://www.imdb.com/title/tt7479784/" style="color:#1976d2;text-decoration:none;"><em>The Bold, the Corrupt, and the Beautiful</em></a>.
     </p>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
-      For TV series, I particularly enjoy <a href="https://www.imdb.com/title/tt6468322/" style="color:#1976d2;text-decoration:none;"><em>Money Heist</em></a>, <a href="https://www.netflix.com/ca/title/81444051" style="color:#1976d2;text-decoration:none;"><em>Bloodhounds</em></a>, <a href="https://www.imdb.com/title/tt6802448/" style="color:#1976d2;text-decoration:none;"><em>Patrick Melrose</em></a>, and <a href="https://www.imdb.com/title/tt8740976/" style="color:#1976d2;text-decoration:none;"><em>Inventing Anna</em></a>.
+      For TV series, I particularly enjoy
+      <a href="https://www.imdb.com/title/tt6468322/" style="color:#1976d2;text-decoration:none;"><em>Money Heist</em></a>,
+      <a href="https://www.netflix.com/ca/title/81444051" style="color:#1976d2;text-decoration:none;"><em>Bloodhounds</em></a>,
+      <a href="https://www.imdb.com/title/tt6802448/" style="color:#1976d2;text-decoration:none;"><em>Patrick Melrose</em></a>,
+      and
+      <a href="https://www.imdb.com/title/tt8740976/" style="color:#1976d2;text-decoration:none;"><em>Inventing Anna</em></a>.
     </p>
 
   </div>
