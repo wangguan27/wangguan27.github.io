@@ -5,20 +5,6 @@ title: "Research"
 ---
 
 <div class="main-flex-container" style="max-width:900px;margin:32px auto 0 auto;">
-  <!-- Left: Profile -->
-  <div style="flex:0 0 320px;text-align:center;">
-    <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:40px auto 18px auto;display:block;" />
-    <div style="margin-bottom:8px;">
-      <span style="font-size:2em;font-weight:700;letter-spacing:-1px;color:#000;">Guan Wang</span>
-    </div>
-    <div style="font-size:1.2em;color:#000;margin-bottom:8px;font-family:'KaiTi','STKaiti','楷体',serif;">王冠</div>
-    <div style="font-size:1.1em;color:#444;margin-bottom:8px;">Ph.D. Candidate<br>Rotman School of Management<br>University of Toronto</div>
-    <div style="font-size:1em;color:#888;margin-bottom:18px;">Toronto, Canada</div>
-    <div style="margin-bottom:18px;">
-      <a href="mailto:wguan.wang@mail.utoronto.ca" style="color:#555;text-decoration:none;font-size:1.5em;margin-right:12px;" title="Email"><i class="fa-solid fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?hl=en&user=8EDsEvAAAAAJ" target="_blank" style="color:#555;text-decoration:none;font-size:1.5em;" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-    </div>
-  </div>
   <!-- Right: Main Content -->
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Papers</h1>
