@@ -6,7 +6,7 @@ site_theme: "default"
 title: "Guan Wang"
 title_separator: "-"
 name: &name "Guan Wang"
-description: &description "Guan Wang - PhD Student at Rotman School of Management, University of Toronto."
+description: &description "Guan Wang - Ph.D. Student at Rotman School of Management, University of Toronto."
 url: "https://wangguan27.github.io" # 确保这是你的正确网址
 baseurl: "" 
 repository: "wangguan27/wangguan27.github.io" # 确保这是你的仓库路径
@@ -17,7 +17,7 @@ author:
   avatar: "profile.png" # 记得稍后上传一张照片到根目录命名为 profile.png
   name: "Guan Wang (王冠)"
   pronouns: "She/Her"
-  bio: "PhD Student in Operations Management"
+  bio: "Ph.D. Student in Operations Management"
   location: "Toronto, Canada"
   employer: "University of Toronto"
   uri: # 如果你有其他个人网站可以填这里
