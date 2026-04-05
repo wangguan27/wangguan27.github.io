@@ -39,6 +39,6 @@ permalink: /
 	
 
 	</div>
-<!-- </div>
-		<!-- {% if site.author.linkedin %} | <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a>{% endif %} -->
+	</div>
+</div>
 
