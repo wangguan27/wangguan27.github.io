@@ -30,7 +30,7 @@ title: "Miscellaneous"
 
     <h2 style="margin-bottom:0.3em;">Coffee &amp; Tea</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
-      I enjoy making, drinking, and sharing coffee. I use the Breville Barista Touch espresso machine and prefer medium roast, single-origin beans for their smooth and balanced flavor. For tea, I gravitate toward raw Pu'er, rock tea, and white tea. I appreciate their complexity and layered aftertaste. I also keep a small collection of raw Pu'er cakes aged around 20 years.
+      I like making and drinking coffee. I use the Breville Barista Touch espresso machine and prefer medium roast, single-origin beans. For tea, I enjoy raw Pu'er, rock tea, and white tea for their complexity and layered aftertaste, and I have a few old Pu'er cakes in my collection.
     </p>
 
     <h2 style="margin-bottom:0.3em;">Film &amp; Series</h2>
