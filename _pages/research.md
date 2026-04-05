@@ -7,7 +7,7 @@ title: "Research"
 <div style="display:flex;max-width:1200px;margin:0 auto;align-items:flex-start;gap:56px;">
   <!-- Left: Profile Sidebar -->
   <div style="flex:0 0 320px;text-align:center;background:none;">
-    <img src="/profile.png" alt="Guan Wang" style="width:180px;height:180px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:0 auto 18px auto;display:block;" />
+    <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:40px auto 18px auto;display:block;" />
     <div style="font-size:1.5em;font-weight:700;margin-bottom:8px;">Guan Wang</div>
     <div style="font-size:1.1em;color:#888;margin-bottom:8px;">Ph.D. Candidate, Rotman School</div>
     <div style="font-size:1em;color:#888;margin-bottom:8px;">Toronto, Canada</div>

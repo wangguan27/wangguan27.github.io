@@ -7,7 +7,7 @@ title: "Teaching"
 <div style="display:flex;max-width:1100px;margin:0 auto;align-items:flex-start;gap:56px;">
   <!-- Left: Profile -->
   <div style="flex:0 0 320px;text-align:center;">
-    <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:0 auto 18px auto;display:block;" />
+    <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:40px auto 18px auto;display:block;" />
     <div style="margin-bottom:8px;">
       <span style="font-size:2em;font-weight:700;letter-spacing:-1px;color:#000;">Guan Wang</span>
     </div>
