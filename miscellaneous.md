@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 title: "Miscellaneous"
 ---
 
-<div style="display:flex;max-width:1100px;margin:32px auto 0 auto;align-items:flex-start;gap:56px;">
+<div style="display:flex;max-width:900px;margin:32px auto 0 auto;align-items:flex-start;gap:56px;">
   <!-- Left: Profile -->
   <div style="flex:0 0 320px;text-align:center;">
     <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:40px auto 18px auto;display:block;" />
@@ -21,7 +21,7 @@ title: "Miscellaneous"
   </div>
   <!-- Right: Main Content -->
   <div style="flex:1;min-width:0;">
-    <h1 style="margin-top:0;font-size:2.1em;font-weight:600;">Miscellaneous</h1>
+    <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Miscellaneous</h1>
 
     <h2 style="margin-bottom:0.3em;">Guqin</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
