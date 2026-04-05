@@ -4,7 +4,7 @@ permalink: /miscellaneous/
 title: "Miscellaneous"
 ---
 
-<div style="display:flex;max-width:900px;margin:32px auto 0 auto;align-items:flex-start;gap:56px;">
+<div class="main-flex-container" style="max-width:900px;margin:32px auto 0 auto;">
   <!-- Left: Profile -->
   <div style="flex:0 0 320px;text-align:center;">
     <img src="/profile.png" alt="Guan Wang" style="width:220px;height:220px;object-fit:cover;border-radius:50%;box-shadow:0 2px 8px #ccc;margin:40px auto 18px auto;display:block;" />
