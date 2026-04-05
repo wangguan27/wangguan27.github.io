@@ -38,7 +38,7 @@ title: "Miscellaneous"
       For TV series, I particularly enjoy
       <a href="https://www.imdb.com/title/tt6468322/" style="color:#1976d2;text-decoration:none;"><em>Money Heist</em></a>,
       <a href="https://www.netflix.com/ca/title/81444051" style="color:#1976d2;text-decoration:none;"><em>Bloodhounds</em></a>,
-      <a href="https://www.imdb.com/title/tt6802448/" style="color:#1976d2;text-decoration:none;"><em>Patrick Melrose</em></a>,
+      <a href="https://www.imdb.com/title/tt6586318/" style="color:#1976d2;text-decoration:none;"><em>Patrick Melrose</em></a>,
       and
       <a href="https://www.imdb.com/title/tt8740976/" style="color:#1976d2;text-decoration:none;"><em>Inventing Anna</em></a>.
     </p>
