@@ -43,6 +43,11 @@
 ;
 
 /* 响应式布局：电脑端左右分栏，手机端单列 */
+.main-flex-container {
+  display: flex;
+  gap: 40px;
+  align-items: flex-start;
+}
 @media (max-width: 700px) {
   .main-flex-container {
     flex-direction: column !important;
