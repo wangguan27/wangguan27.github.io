@@ -31,7 +31,7 @@ title: "Miscellaneous"
     </p>
     <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:6px;">On My List:</p>
     <ul style="font-size:1.1em;line-height:1.9;color:#222;margin-bottom:24px;padding-left:1.4em;list-style:none;">
-      <li>☐ <a href="https://www.youtube.com/watch?v=HYu_rgt-mFY" style="color:#1976d2;text-decoration:none;">A mozzarella balloon using nama chocolate mousse as its base</a> — 大碗拿铁 BowlofLatte</li>
+      <li>☐ <a href="https://www.youtube.com/watch?v=HYu_rgt-mFY" style="color:#1976d2;text-decoration:none;">A mozzarella balloon using nama chocolate mousse as its base (<span style="font-family:KaiTi,STKaiti,楷体,serif;">告白气球</span>)</a></li>
     </ul>
     <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:14px;">Some desserts I have made:</p>
     <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-bottom:28px;">
@@ -56,7 +56,8 @@ title: "Miscellaneous"
         <a href="https://www.youtube.com/watch?v=WBhzv74R4gw" target="_blank" style="text-decoration:none;">
           <img src="/藕粉桂花糖糕.jpg" alt="藕粉桂花糕" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
         </a>
-        <div style="font-size:1em;font-weight:600;color:#222;"><em>Lotus Root Starch &amp; Osmanthus Cake</em></div>
+        <div style="font-size:1em;font-weight:600;color:#222;"><span style="font-family:KaiTi,STKaiti,楷体,serif;">藕粉桂花糖糕</span></div>
+        <div style="font-size:0.92em;color:#444;margin-top:2px;"><em>Lotus Root Starch &amp; Osmanthus Cake</em></div>
         <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=WBhzv74R4gw" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
       </div>
     </div>
