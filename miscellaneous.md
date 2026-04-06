@@ -56,7 +56,7 @@ title: "Miscellaneous"
         <a href="https://www.youtube.com/watch?v=WBhzv74R4gw" target="_blank" style="text-decoration:none;">
           <img src="/藕粉桂花糖糕.jpg" alt="藕粉桂花糕" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
         </a>
-        <div style="font-size:1em;font-weight:600;color:#222;"><span style="font-family:KaiTi,STKaiti,楷体,serif;">藕粉桂花糖糕</span></div>
+        <div style="font-size:1em;font-weight:600;color:#222;"><span style="font-family:KaiTi,STKaiti,楷体,serif;font-weight:600;color:#222;">藕粉桂花糖糕</span></div>
         <div style="font-size:0.92em;color:#444;margin-top:2px;"><em>Lotus Root Starch &amp; Osmanthus Cake</em></div>
         <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=WBhzv74R4gw" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
       </div>
@@ -68,7 +68,6 @@ title: "Miscellaneous"
       <a href="https://www.imdb.com/title/tt0068646/" style="color:#1976d2;text-decoration:none;"><em>The Godfather</em></a>,
       <a href="https://www.imdb.com/title/tt10168220/" style="color:#1976d2;text-decoration:none;"><em>A Bright Moon</em></a>,
       <a href="https://www.imdb.com/title/tt1063669/" style="color:#1976d2;text-decoration:none;"><em>The Wave</em></a>,
-      <a href="https://www.imdb.com/title/tt0093389/" style="color:#1976d2;text-decoration:none;"><em>The Last Emperor</em></a>,
       <a href="https://www.imdb.com/title/tt0106332/" style="color:#1976d2;text-decoration:none;"><em>Farewell My Concubine</em></a>,
       <a href="https://www.imdb.com/title/tt0110413/" style="color:#1976d2;text-decoration:none;"><em>Léon: The Professional</em></a>,
       <a href="https://www.imdb.com/title/tt0109688/" style="color:#1976d2;text-decoration:none;"><em>Ashes of Time</em></a>,
