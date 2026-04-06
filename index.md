@@ -30,7 +30,7 @@ permalink: /
 			My research lies broadly in revenue management, specifically data-driven decision-making. My recent work proposes a systematic way to improve predict-then-optimize decisions through post-estimation adjustments. I also work on urban retail mix planning, using large-scale mobility data to guide how cities can fill vacant storefronts and revitalize neighborhoods.
 		</div>
 
-		<h2 style="margin-bottom:0.5em;">Research</h2>
+		<h2 style="margin-bottom:0.5em;">Papers</h2>
 		<ol style="font-size:1.08em;line-height:1.8;color:#222;margin-bottom:32px;padding-left:22px;">
 			<li style="margin-bottom:20px;">
 				&ldquo;<b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data</b>&rdquo;<br>
