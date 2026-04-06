@@ -29,7 +29,7 @@ title: "Miscellaneous"
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:20px;">
       I enjoy cooking and sharing food with others, and I am always looking to explore new recipes and techniques. There is something deeply satisfying about turning simple ingredients into a beautiful dish.
     </p>
-    <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:6px;">On My List:</p>
+    <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:6px;">Trying Next:</p>
     <ul style="font-size:1.1em;line-height:1.9;color:#222;margin-bottom:24px;padding-left:1.4em;list-style:none;">
       <li>☐ <a href="https://www.youtube.com/watch?v=HYu_rgt-mFY" style="color:#1976d2;text-decoration:none;">A mozzarella balloon using nama chocolate mousse as its base (<span style="font-family:KaiTi,STKaiti,楷体,serif;">告白气球</span>)</a></li>
     </ul>
