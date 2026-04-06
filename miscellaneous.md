@@ -56,7 +56,7 @@ title: "Miscellaneous"
         <a href="https://www.youtube.com/watch?v=WBhzv74R4gw" target="_blank" style="text-decoration:none;">
           <img src="/藕粉桂花糖糕.jpg" alt="藕粉桂花糕" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
         </a>
-        <div style="font-size:1em;font-weight:600;color:#222;"><span style="font-family:KaiTi,STKaiti,楷体,serif;font-weight:600;color:#222;">藕粉桂花糖糕</span></div>
+        <div style="font-size:1em;font-weight:700;color:#222;"><span style="font-family:KaiTi,STKaiti,楷体,serif;font-weight:700;color:#222;-webkit-text-stroke:0.3px #222;">藕粉桂花糖糕</span></div>
         <div style="font-size:0.92em;color:#444;margin-top:2px;"><em>Lotus Root Starch &amp; Osmanthus Cake</em></div>
         <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=WBhzv74R4gw" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
       </div>
@@ -64,7 +64,7 @@ title: "Miscellaneous"
 
     <h2 style="margin-bottom:0.3em;">Film &amp; Series</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:16px;">
-      Outside of research, I enjoy films and TV series. Some of my favorite films include
+      I enjoy films and TV series. Some of my favorite films include
       <a href="https://www.imdb.com/title/tt0068646/" style="color:#1976d2;text-decoration:none;"><em>The Godfather</em></a>,
       <a href="https://www.imdb.com/title/tt10168220/" style="color:#1976d2;text-decoration:none;"><em>A Bright Moon</em></a>,
       <a href="https://www.imdb.com/title/tt1063669/" style="color:#1976d2;text-decoration:none;"><em>The Wave</em></a>,
