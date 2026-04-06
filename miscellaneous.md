@@ -67,7 +67,6 @@ title: "Miscellaneous"
       Outside of research, I enjoy films and TV series. Some of my favorite films include
       <a href="https://www.imdb.com/title/tt0068646/" style="color:#1976d2;text-decoration:none;"><em>The Godfather</em></a>,
       <a href="https://www.imdb.com/title/tt10168220/" style="color:#1976d2;text-decoration:none;"><em>A Bright Moon</em></a>,
-      <a href="https://www.imdb.com/title/tt0097165/" style="color:#1976d2;text-decoration:none;"><em>Dead Poets Society</em></a>,
       <a href="https://www.imdb.com/title/tt1063669/" style="color:#1976d2;text-decoration:none;"><em>The Wave</em></a>,
       <a href="https://www.imdb.com/title/tt0093389/" style="color:#1976d2;text-decoration:none;"><em>The Last Emperor</em></a>,
       <a href="https://www.imdb.com/title/tt0106332/" style="color:#1976d2;text-decoration:none;"><em>Farewell My Concubine</em></a>,
