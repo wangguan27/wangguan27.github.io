@@ -9,6 +9,13 @@ title: "Miscellaneous"
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Miscellaneous</h1>
 
+    <h2 style="margin-bottom:0.3em;">Awards & Grants</h2>
+    <ul style="font-size:1.13em;line-height:1.9;color:#222;margin-bottom:28px;padding-left:1.4em;">
+      <li>TD Management and Data Analytics Lab (MDAL) Grant, 2025</li>
+      <li>Management Analytics Research Cluster Funding, 2024</li>
+      <li>3rd Prize, Master's Graduate Oral Presentation, Ninth Annual Canadian Statistics Student Conference (CSSC), 2021</li>
+    </ul>
+
     <h2 style="margin-bottom:0.3em;">Guqin</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
       I studied the <a href="https://en.wikipedia.org/wiki/Guqin" style="color:#1976d2;text-decoration:none;">guqin</a>, a traditional Chinese stringed instrument, for eight years starting at the age of 10 under <a href="https://baike.baidu.com/item/%E9%AB%98%E5%9F%B9%E8%8A%AC/7734831" style="color:#1976d2;text-decoration:none;">Peifen Gao (<span style="font-family:KaiTi,STKaiti,serif;">高培芬</span>)</a>, a nationally recognized inheritor of China's Intangible Cultural Heritage. The experience has shaped my aesthetic sensibility, helped me cultivate inner tranquility, and continues to influence my way of thinking.
