@@ -7,14 +7,14 @@ title: "Miscellaneous"
 <div class="main-flex-container" style="max-width:900px;margin:32px auto 0 auto;">
   <!-- Left: Profile -->
   <div style="flex:1;min-width:0;">
-    <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Miscellaneous</h1>
-
-    <h2 style="margin-bottom:0.3em;">Awards & Grants</h2>
-    <ul style="font-size:1.13em;line-height:1.9;color:#222;margin-bottom:28px;padding-left:1.4em;">
+    <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Awards & Grants</h1>
+    <ul style="font-size:1.13em;line-height:1.9;color:#222;margin-bottom:40px;padding-left:1.4em;">
       <li>TD Management and Data Analytics Lab (MDAL) Grant, 2025</li>
       <li>Management Analytics Research Cluster Funding, 2024</li>
       <li>3rd Prize, Master's Graduate Oral Presentation, Ninth Annual Canadian Statistics Student Conference (CSSC), 2021</li>
     </ul>
+
+    <h1 style="margin-top:0;font-size:2.1em;font-weight:600;">More About Me</h1>
 
     <h2 style="margin-bottom:0.3em;">Guqin</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
