@@ -34,7 +34,7 @@ title: "Research"
     <h2 style="margin-bottom:0.5em;">Selected Working Papers</h2>
     <ol style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
       <li>
-        <b>Hansheng Jiang</b>, <b>Guan Wang</b>, Jingwei Zhang, Calvin Brown (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
+        <b>Hansheng Jiang</b>, <b>Guan Wang</b>, Jingwei Zhang, Calvin Brown (the NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
         <ul>
           <li>Accepted for presentation at INFORMS 2026, MSOM 2026</li>
         </ul>

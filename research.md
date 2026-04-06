@@ -11,7 +11,7 @@ title: "Research"
     <ol style="font-size:1.08em;line-height:1.8;color:#222;margin-bottom:40px;padding-left:22px;">
       <li style="margin-bottom:20px;">
         &ldquo;<b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data</b>&rdquo;<br>
-        <span style="color:#555;">with Hansheng Jiang, Jingwei Zhang, and Calvin Brown</span><br>
+        <span style="color:#555;">with Hansheng Jiang, Jingwei Zhang, and Calvin Brown (the NYC Department of Small Business Services)</span><br>
         <i>Working in Progress</i><br>
         <span style="color:#444;">&#9632; Accepted for presentation at POMS 2026, INFORMS 2026</span>
       </li>
