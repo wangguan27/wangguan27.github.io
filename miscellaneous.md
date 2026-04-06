@@ -5,7 +5,6 @@ title: "Miscellaneous"
 ---
 
 <div class="main-flex-container" style="max-width:900px;margin:32px auto 0 auto;">
-  <!-- Left: Profile -->
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Awards & Grants</h1>
     <ul style="font-size:1.13em;line-height:1.9;color:#222;margin-bottom:40px;padding-left:1.4em;">
@@ -25,6 +24,42 @@ title: "Miscellaneous"
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:28px;">
       I like making and drinking coffee. I use the Breville Barista Touch espresso machine and prefer medium roast, single-origin beans. For tea, I enjoy raw Pu'er, rock tea, and white tea for their complexity and layered aftertaste, and I have a few old Pu'er cakes in my collection.
     </p>
+
+    <h2 style="margin-bottom:0.3em;">Cooking</h2>
+    <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:20px;">
+      I enjoy cooking and sharing food with others, and I am always looking to explore new recipes and techniques. There is something deeply satisfying about turning simple ingredients into a beautiful dish.
+    </p>
+    <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:6px;">On My List:</p>
+    <ul style="font-size:1.1em;line-height:1.9;color:#222;margin-bottom:24px;padding-left:1.4em;list-style:none;">
+      <li>☐ <a href="https://www.youtube.com/watch?v=HYu_rgt-mFY" style="color:#1976d2;text-decoration:none;">A mozzarella balloon using nama chocolate mousse as its base</a> — 大碗拿铁 BowlofLatte</li>
+    </ul>
+    <p style="font-size:1.08em;font-weight:600;color:#222;margin-bottom:14px;">Some desserts I have made:</p>
+    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-bottom:28px;">
+      <div style="text-align:center;">
+        <a href="https://www.youtube.com/watch?v=3l6RoJE9ScQ" target="_blank" style="text-decoration:none;">
+          <img src="/星空羊羹.jpg" alt="星空羊羹" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
+        </a>
+        <div style="font-size:1em;font-weight:600;color:#222;">星降る夜に｜星空羊羹</div>
+        <div style="font-size:0.92em;color:#444;margin-top:2px;"><em>At a Starry Night</em></div>
+        <div style="font-size:0.88em;color:#666;margin-top:2px;">Note: substituted Perrier for sparkling sake</div>
+        <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=3l6RoJE9ScQ" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
+      </div>
+      <div style="text-align:center;">
+        <a href="https://www.youtube.com/watch?v=U0wGuYj1e9Y" target="_blank" style="text-decoration:none;">
+          <img src="/白玉红豆汤.jpg" alt="白玉ぜんざい" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
+        </a>
+        <div style="font-size:1em;font-weight:600;color:#222;">白玉ぜんざい</div>
+        <div style="font-size:0.92em;color:#444;margin-top:2px;"><em>Red Bean Soup with Mochi Balls</em></div>
+        <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=U0wGuYj1e9Y" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
+      </div>
+      <div style="text-align:center;">
+        <a href="https://www.youtube.com/watch?v=WBhzv74R4gw" target="_blank" style="text-decoration:none;">
+          <img src="/藕粉桂花糖糕.jpg" alt="藕粉桂花糕" style="width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:10px;box-shadow:0 2px 8px #ccc;margin-bottom:8px;" />
+        </a>
+        <div style="font-size:1em;font-weight:600;color:#222;"><em>Lotus Root Starch &amp; Osmanthus Cake</em></div>
+        <div style="font-size:0.92em;margin-top:4px;"><a href="https://www.youtube.com/watch?v=WBhzv74R4gw" style="color:#1976d2;text-decoration:none;">Recipe ↗</a></div>
+      </div>
+    </div>
 
     <h2 style="margin-bottom:0.3em;">Film &amp; Series</h2>
     <p style="font-size:1.13em;line-height:1.7;color:#222;margin-bottom:16px;">
