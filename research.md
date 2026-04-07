@@ -13,7 +13,8 @@ title: "Research"
         <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data</b><br>
         <span style="color:#555;">with Hansheng Jiang, Jingwei Zhang, and Calvin Brown (the NYC Department of Small Business Services)</span><br>
         <i>Working in Progress</i><br>
-        <span style="color:#444;">&#9632; Accepted for presentation at POMS 2026, INFORMS 2026</span>
+        <span style="color:#444;">&#9632; Accepted for presentation at POMS 2026, INFORMS 2026</span><br>
+        <span style="color:#444;">&#9632; 2025 Rotman TD MDAL Research Grant</span>
       </li>
       <li style="margin-bottom:20px;">
         <a href="https://arxiv.org/abs/2507.20501" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Post-Estimation Adjustments in Data-Driven Decision-Making with Applications in Pricing</b></a><br>

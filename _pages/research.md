@@ -37,6 +37,7 @@ title: "Research"
         <b>Hansheng Jiang</b>, <b>Guan Wang</b>, Jingwei Zhang, Calvin Brown (the NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
         <ul>
           <li>Accepted for presentation at INFORMS 2026, MSOM 2026</li>
+          <li>2025 Rotman TD MDAL Research Grant</li>
         </ul>
       </li>
       <li>
