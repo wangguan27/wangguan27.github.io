@@ -34,7 +34,7 @@ title: "Research"
     <h2 style="margin-bottom:0.5em;">Selected Working Papers</h2>
     <ol style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
       <li>
-        <a href="https://hanshengjiang.github.io/" target="_blank"><b>Hansheng Jiang</b></a>, <b>Guan Wang</b>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a>, Calvin Brown (the NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
+        <a href="https://hanshengjiang.github.io/" target="_blank"><b>Hansheng Jiang</b></a>, <b>Guan Wang</b>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a>, Calvin Brown (NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
         <ul>
           <li>Accepted for presentation at INFORMS 2026, RMP 2026, POMS 2026</li>
           <li>2025 Rotman TD MDAL Research Grant</li>
