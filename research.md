@@ -19,7 +19,7 @@ title: "Research"
       <li style="margin-bottom:20px;">
         <a href="https://arxiv.org/abs/2507.20501" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Post-Estimation Adjustments in Data-Driven Decision-Making with Applications in Pricing</b></a><br>
         <span style="color:#555;">with <a href="https://www.michaelalbert.co/" target="_blank" style="color:#1976d2;text-decoration:underline;">Michael Albert</a>, <a href="https://maxbiggs91.github.io/mbiggs.github.io/index.html" target="_blank" style="color:#1976d2;text-decoration:underline;">Max Biggs</a>, and <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank" style="color:#1976d2;text-decoration:underline;">Ningyuan Chen</a></span><br>
-        <i>Submitted to Management Science</i><br>
+        <i>Under major revision at Management Science</i><br>
         <span style="color:#444;">&#9632; Finalists for the best paper award competition at CORS 2026 (open category)</span><br>
         <span style="color:#444;">&#9632; Accepted for presentation at INFORMS 2026, RMP 2026, CORS 2026, POMS 2026, INFORMS 2025, RMP 2025</span><br>
         <span style="color:#444;">&#9632; Accepted at <a href="https://mlxor-workshop.github.io/" target="_blank" style="color:#1976d2;text-decoration:none;">ML&times;OR Workshop</a>, NeurIPS 2025</span>

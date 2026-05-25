@@ -41,7 +41,7 @@ title: "Research"
         </ul>
       </li>
       <li>
-        <a href="https://www.michaelalbert.co/" target="_blank">Michael Albert</a>, <a href="https://maxbiggs91.github.io/mbiggs.github.io/index.html" target="_blank">Max Biggs</a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <b>Guan Wang</b> (2026). <b>Post-Estimation Adjustments in Data-Driven Decision-Making with Applications in Pricing.</b> <i>Submitted to Management Science</i> <a href="https://arxiv.org/abs/2507.20501" target="_blank" style="color:#1976d2;">[arXiv]</a>
+        <a href="https://www.michaelalbert.co/" target="_blank">Michael Albert</a>, <a href="https://maxbiggs91.github.io/mbiggs.github.io/index.html" target="_blank">Max Biggs</a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <b>Guan Wang</b> (2026). <b>Post-Estimation Adjustments in Data-Driven Decision-Making with Applications in Pricing.</b> <i>Under major revision at Management Science</i> <a href="https://arxiv.org/abs/2507.20501" target="_blank" style="color:#1976d2;">[arXiv]</a>
         <ul>
           <li>Finalists for the best paper award competition at CORS 2026 (open category)</li>
           <li>Accepted for presentation at INFORMS 2026, RMP 2026, CORS 2026, POMS 2026, INFORMS 2025, RMP 2025</li>
