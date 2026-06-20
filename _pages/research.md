@@ -36,6 +36,7 @@ title: "Research"
       <li>
         <a href="https://hanshengjiang.github.io/" target="_blank"><b>Hansheng Jiang</b></a>, <b>Guan Wang</b>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a>, Calvin Brown (NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
         <ul>
+          <li>Invited presentation at NYC Department of City Planning</li>
           <li>Accepted for presentation at INFORMS 2026, RMP 2026, POMS 2026</li>
           <li>2025 Rotman TD MDAL Research Grant</li>
         </ul>
@@ -44,15 +45,11 @@ title: "Research"
         <a href="https://www.michaelalbert.co/" target="_blank">Michael Albert</a>, <a href="https://maxbiggs91.github.io/mbiggs.github.io/index.html" target="_blank">Max Biggs</a>, <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <b>Guan Wang</b> (2026). <b>Post-Estimation Adjustments in Data-Driven Decision-Making with Applications in Pricing.</b> <i>Under major revision at Management Science</i> <a href="https://arxiv.org/abs/2507.20501" target="_blank" style="color:#1976d2;">[arXiv]</a>
         <ul>
           <li>Finalists for the best paper award competition at CORS 2026 (open category)</li>
-          <li>Accepted for presentation at INFORMS 2026, RMP 2026, CORS 2026, POMS 2026, INFORMS 2025, RMP 2025</li>
-          <li>Accepted at <a href="https://mlxor-workshop.github.io/" target="_blank" style="color:#1976d2;">ML&times;OR Workshop</a>, NeurIPS 2025</li>
+          <li>Accepted for presentation at INFORMS 2026, MSOM 2026, RMP 2026, CORS 2026, POMS 2026, INFORMS 2025, RMP 2025</li>
         </ul>
       </li>
       <li>
-        <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <a href="https://www.setarehfarajollahzadeh.com/" target="_blank">Setareh Farajollahzadeh</a>, <b>Guan Wang</b> (2026). <b>Learning Consumer Preferences from Bundle Sales Data.</b> <i>R&amp;R Manufacturing &amp; Service Operations Management</i> <a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;">[arXiv]</a>
-        <ul>
-          <li>Accepted for presentation at MSOM 2026</li>
-        </ul>
+        <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <a href="https://www.setarehfarajollahzadeh.com/" target="_blank">Setareh Farajollahzadeh</a>, <b>Guan Wang</b> (2026). <b>Learning Consumer Preferences from Bundle Sales Data.</b> <i>R&amp;R at Manufacturing &amp; Service Operations Management</i> <a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;">[arXiv]</a>
       </li>
     </ol>
     <h2 style="margin-bottom:0.5em;">CV</h2>
