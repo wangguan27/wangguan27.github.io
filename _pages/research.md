@@ -46,6 +46,7 @@ title: "Research"
         <ul>
           <li>Finalists for the best paper award competition at CORS 2026 (open category)</li>
           <li>Accepted for presentation at INFORMS 2026, MSOM 2026, RMP 2026, CORS 2026, POMS 2026, INFORMS 2025, RMP 2025</li>
+          <li>Accepted at <a href="https://mlxor-workshop.github.io/" target="_blank" style="color:#1976d2;">ML&times;OR Workshop</a>, NeurIPS 2025</li>
         </ul>
       </li>
       <li>
