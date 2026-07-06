@@ -21,6 +21,7 @@ title: "Teaching"
       <ul style="margin-top:8px;">
         <li><strong>MBA &amp; Master of Management Analytics (MMA) Courses</strong>
           <ul>
+            <li>RSM 1699: Management Analytics</li>
             <li>RSM 8413: Machine Learning Analytics</li>
             <li>RSM 8414: Tools for Probabilistic Models and Prescriptive Analytics</li>
             <li>RSM 2408: Modelling and Optimization for Decision Making</li>
