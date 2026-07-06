@@ -19,7 +19,7 @@ title: "Teaching"
       University of Toronto, Canada.</p>
 
       <ul style="margin-top:8px;">
-        <li><strong>MBA &amp; Master of Management Analytics (MMA) Courses</strong>
+        <li><strong>MBA &amp; Master of Management Analytics (MMA) &amp; Master of Management Courses</strong>
           <ul>
             <li>RSM 1699: Management Analytics</li>
             <li>RSM 8413: Machine Learning Analytics</li>
