@@ -50,7 +50,7 @@ permalink: /
 			</li>
 			<li style="margin-bottom:20px;">
 				<a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Learning Consumer Preferences from Bundle Sales Data</b></a><br>
-				<span style="color:#555;">with <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank" style="color:#1976d2;text-decoration:underline;">Ningyuan Chen</a>, <a href="https://setarehfarajollahzadeh.com/" target="_blank" style="color:#1976d2;text-decoration:underline;">Setareh Farajollahzadeh</a>, Qingwei Jin, and Fanni Shen</span><br>
+				<span style="color:#555;">with <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank" style="color:#1976d2;text-decoration:underline;">Ningyuan Chen</a>, <a href="https://setarehfarajollahzadeh.com/" target="_blank" style="color:#1976d2;text-decoration:underline;">Setareh Farajollahzadeh</a>, <a href="https://person.zju.edu.cn/qingweijin" target="_blank" style="color:#1976d2;text-decoration:underline;">Qingwei Jin</a>, and <a href="https://faniceshen.github.io/Finni-Personal-Web/" target="_blank" style="color:#1976d2;text-decoration:underline;">Fanni Shen</a></span><br>
 				<i>R&amp;R at Manufacturing &amp; Service Operations Management</i>
 			</li>
 		</ol>

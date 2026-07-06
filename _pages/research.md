@@ -50,7 +50,7 @@ title: "Research"
         </ul>
       </li>
       <li>
-        <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <a href="https://setarehfarajollahzadeh.com/" target="_blank">Setareh Farajollahzadeh</a>, Qingwei Jin, Fanni Shen, <b>Guan Wang</b> (2026). <b>Learning Consumer Preferences from Bundle Sales Data.</b> <i>R&amp;R at Manufacturing &amp; Service Operations Management</i> <a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;">[arXiv]</a>
+        <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <a href="https://setarehfarajollahzadeh.com/" target="_blank">Setareh Farajollahzadeh</a>, <a href="https://person.zju.edu.cn/qingweijin" target="_blank">Qingwei Jin</a>, <a href="https://faniceshen.github.io/Finni-Personal-Web/" target="_blank">Fanni Shen</a>, <b>Guan Wang</b> (2026). <b>Learning Consumer Preferences from Bundle Sales Data.</b> <i>R&amp;R at Manufacturing &amp; Service Operations Management</i> <a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;">[arXiv]</a>
       </li>
     </ol>
     <h2 style="margin-bottom:0.5em;">CV</h2>
