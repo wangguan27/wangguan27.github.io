@@ -31,5 +31,34 @@ title: "Research"
         <i>R&amp;R at Manufacturing &amp; Service Operations Management</i>
       </li>
     </ol>
+
+    <h2 style="margin-bottom:0.5em;">Other Publications</h2>
+    <ol style="font-size:1.08em;line-height:1.8;color:#222;margin-bottom:40px;padding-left:22px;">
+      <li style="margin-bottom:20px;">
+        <a href="https://doi.org/10.1016/j.jad.2023.07.049" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Treatment Outcomes in Major Depressive Disorder Patients with Comorbid Alcohol Use Disorder: A STAR*D Analysis</b></a><br>
+        <span style="color:#555;">with Victor M. Tang, Dengdeng Yu, Cory R. Weissman, Brett D. M. Jones, Daniel M. Blumberger, Zafiris J. Daskalakis, Bernard Le Foll, and Daphne Voineskos</span><br>
+        <i>Journal of Affective Disorders, 339, 691-697, 2023</i>
+      </li>
+      <li style="margin-bottom:20px;">
+        <a href="https://doi.org/10.3390/tomography8010027" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Missed Breast Cancers on MRI in High-risk Patients: A Retrospective Case-control Study</b></a><br>
+        <span style="color:#555;">with Julie Bilocq-Lacoste, Grey Kuling, Anne Martel, Pascal N. Tyrrell, Siying Li, and Belinda Curpen</span><br>
+        <i>Tomography, 8, 329-340, 2022</i>
+      </li>
+      <li style="margin-bottom:20px;">
+        <a href="https://doi.org/10.4088/JCP.21r14057" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Decreases in Suicidality Following Psychedelic Therapy: A Meta-Analysis of Individual Patient Data Across Clinical Trials</b></a><br>
+        <span style="color:#555;">with Richard J. Zeifman, Dengdeng Yu, Nikhita Singhal, Sandeep M. Nayak, and Cory R. Weissman</span><br>
+        <i>The Journal of Clinical Psychiatry, 83(2), 2022</i>
+      </li>
+      <li style="margin-bottom:20px;">
+        <a href="https://doi.org/10.1016/j.jacr.2021.09.034" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Gender Differences in Diagnostic Radiology Practice: Observational Study</b></a><br>
+        <span style="color:#555;">with Paula Alcaide Leon, Sapna Rawal, Timo Krings, Jiachen Zhu, Robert van Tuijl, Ida Anderman, and Carlos Schorlemmer</span><br>
+        <i>Journal of the American College of Radiology, 19(1), 90-96, 2022</i>
+      </li>
+      <li style="margin-bottom:20px;">
+        <a href="https://doi.org/10.1016/j.jvs.2021.05.058" target="_blank" style="color:#1976d2;text-decoration:none;"><b>Community Response to Mortality Data in Paclitaxel Devices for Peripheral Vascular Disease</b></a><br>
+        <span style="color:#555;">with Blair Warren, Graham Roche-Nagle, Jiachen Zhu, Dheeraj Rajan, and Sebastian Mafeld</span><br>
+        <i>Journal of Vascular Surgery, 74(6), 2021</i>
+      </li>
+    </ol>
   </div>
 </div>

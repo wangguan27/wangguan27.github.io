@@ -53,6 +53,24 @@ title: "Research"
         <a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank"><b>Ningyuan Chen</b></a>, <a href="https://setarehfarajollahzadeh.com/" target="_blank">Setareh Farajollahzadeh</a>, <a href="https://person.zju.edu.cn/qingweijin" target="_blank">Qingwei Jin</a>, <a href="https://faniceshen.github.io/Finni-Personal-Web/" target="_blank">Fanni Shen</a>, <b>Guan Wang</b> (2026). <b>Learning Consumer Preferences from Bundle Sales Data.</b> <i>R&amp;R at Manufacturing &amp; Service Operations Management</i> <a href="https://arxiv.org/abs/2209.04942" target="_blank" style="color:#1976d2;">[arXiv]</a>
       </li>
     </ol>
+    <h2 style="margin-bottom:0.5em;">Other Publications</h2>
+    <ol style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
+      <li>
+        Victor M. Tang, Dengdeng Yu, Cory R. Weissman, Brett D. M. Jones, <b>Guan Wang</b>, Daniel M. Blumberger, Zafiris J. Daskalakis, Bernard Le Foll, Daphne Voineskos (2023). <b>Treatment Outcomes in Major Depressive Disorder Patients with Comorbid Alcohol Use Disorder: A STAR*D Analysis.</b> <i>Journal of Affective Disorders, 339, 691-697</i> <a href="https://doi.org/10.1016/j.jad.2023.07.049" target="_blank" style="color:#1976d2;">[DOI]</a>
+      </li>
+      <li>
+        Julie Bilocq-Lacoste, Grey Kuling, Anne Martel, Pascal N. Tyrrell, Siying Li, <b>Guan Wang</b>, Belinda Curpen (2022). <b>Missed Breast Cancers on MRI in High-risk Patients: A Retrospective Case-control Study.</b> <i>Tomography, 8, 329-340</i> <a href="https://doi.org/10.3390/tomography8010027" target="_blank" style="color:#1976d2;">[DOI]</a>
+      </li>
+      <li>
+        Richard J. Zeifman, Dengdeng Yu, Nikhita Singhal, <b>Guan Wang</b>, Sandeep M. Nayak, Cory R. Weissman (2022). <b>Decreases in Suicidality Following Psychedelic Therapy: A Meta-Analysis of Individual Patient Data Across Clinical Trials.</b> <i>The Journal of Clinical Psychiatry, 83(2)</i> <a href="https://doi.org/10.4088/JCP.21r14057" target="_blank" style="color:#1976d2;">[DOI]</a>
+      </li>
+      <li>
+        Paula Alcaide Leon, Sapna Rawal, Timo Krings, <b>Guan Wang</b>, Jiachen Zhu, Robert van Tuijl, Ida Anderman, Carlos Schorlemmer (2022). <b>Gender Differences in Diagnostic Radiology Practice: Observational Study.</b> <i>Journal of the American College of Radiology, 19(1), 90-96</i> <a href="https://doi.org/10.1016/j.jacr.2021.09.034" target="_blank" style="color:#1976d2;">[DOI]</a>
+      </li>
+      <li>
+        Blair Warren, Graham Roche-Nagle, Jiachen Zhu, <b>Guan Wang</b>, Dheeraj Rajan, Sebastian Mafeld (2021). <b>Community Response to Mortality Data in Paclitaxel Devices for Peripheral Vascular Disease.</b> <i>Journal of Vascular Surgery, 74(6)</i> <a href="https://doi.org/10.1016/j.jvs.2021.05.058" target="_blank" style="color:#1976d2;">[DOI]</a>
+      </li>
+    </ol>
     <h2 style="margin-bottom:0.5em;">CV</h2>
     <p style="font-size:1.08em;line-height:1.7;color:#222;">
       <a href="/GuanWang_CV.pdf" target="_blank" style="color:#1976d2;text-decoration:none;font-weight:500;">Download my CV (PDF)</a>
