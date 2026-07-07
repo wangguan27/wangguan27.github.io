@@ -7,6 +7,9 @@ title: "Research"
 <div class="main-flex-container" style="max-width:900px;margin:32px auto 0 auto;">
   <!-- Right: Main Content -->
   <div style="flex:1;min-width:0;">
+    <div style="font-size:1.18em;line-height:1.8;color:#222;margin:40px 0 32px 0;">
+      My research lies in data-driven revenue management, with an emphasis on translating operational data into decision-relevant estimates and models for optimization. My recent work proposes post-estimation adjustments for a general predict-then-optimize framework, with applications to pricing. In my urban retail work, I estimate a spatial choice model from large-scale mobility data and embed the resulting demand model into retail-mix optimization to guide decisions on filling vacant storefronts, in collaboration with the New York City Department of Small Business Services.
+    </div>
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Papers</h1>
     <ol style="font-size:1.08em;line-height:1.8;color:#222;margin-bottom:40px;padding-left:22px;">
       <li style="margin-bottom:20px;">

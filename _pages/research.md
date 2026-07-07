@@ -22,7 +22,7 @@ title: "Research"
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:0;font-size:2.1em;font-weight:600;">Research</h1>
     <div style="font-size:1.18em;line-height:1.7;color:#222;margin-bottom:32px;">
-      My research focuses on data-driven decision-making, revenue management, and operations under uncertainty. I am particularly interested in the intersection of predictive analytics and optimization, with applications in service operations, healthcare, and online platforms.
+      My research lies in data-driven revenue management, with an emphasis on translating operational data into decision-relevant estimates and models for optimization. My recent work proposes post-estimation adjustments for a general predict-then-optimize framework, with applications to pricing. In my urban retail work, I estimate a spatial choice model from large-scale mobility data and embed the resulting demand model into retail-mix optimization to guide decisions on filling vacant storefronts, in collaboration with the New York City Department of Small Business Services.
     </div>
     <h2 style="margin-bottom:0.5em;">Research Interests</h2>
     <ul style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
