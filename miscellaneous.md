@@ -8,6 +8,7 @@ title: "Miscellaneous"
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Awards & Grants</h1>
     <ul style="font-size:1.13em;line-height:1.9;color:#222;margin-bottom:40px;padding-left:1.4em;">
+      <li>Finalist, CORS Student Paper Competition (Open Category), 2026</li>
       <li>Ontario Graduate Scholarship ($15,000), 2026</li>
       <li>TD Management and Data Analytics Lab (MDAL) Grant ($3,600), 2025</li>
       <li>Management Analytics Research Cluster Funding ($7,000), 2024</li>
