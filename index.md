@@ -23,7 +23,7 @@ permalink: /
 	<div style="flex:1;min-width:0;">
 		<h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Welcome!</h1>
 		<div style="font-size:1.18em;line-height:1.85;margin-bottom:32px;">
-			I am Guan Wang, a fourth-year Ph.D. student in Operations Management and Statistics at the Joseph L. Rotman School of Management, University of Toronto. I am fortunate to be advised by 
+			I am Guan Wang, a fifth-year PhD student in Operations Management and Statistics at the Joseph L. Rotman School of Management, University of Toronto. I am fortunate to be advised by
 			<a href="http://individual.utoronto.ca/ningyuanchen/" target="_blank" style="color:#1976d2;text-decoration:underline;">Prof. Ningyuan Chen</a> and 
 			<a href="https://hanshengjiang.github.io/index.html" target="_blank" style="color:#1976d2;text-decoration:underline;">Prof. Hansheng Jiang</a>.
 			Prior to my Ph.D., I received my M.Sc. in Biostatistics and my B.Sc. in Mathematical Applications in Economics and Finance, Statistics, and Actuarial Science from the University of Toronto.<br><br>
