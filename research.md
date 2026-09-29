@@ -8,14 +8,14 @@ title: "Research"
   <!-- Right: Main Content -->
   <div style="flex:1;min-width:0;">
     <div style="font-size:1.18em;line-height:1.8;color:#222;margin:40px 0 32px 0;">
-      My research lies in data-driven revenue management, with an emphasis on translating operational data into decision-relevant estimates and models for optimization. My recent work proposes post-estimation adjustments for a general predict-then-optimize framework, with applications to pricing. In my urban retail work, I estimate a spatial choice model from large-scale mobility data and embed the resulting demand model into retail-mix optimization to guide decisions on filling vacant storefronts, in collaboration with the New York City Department of Small Business Services.
+      My research focuses on data-driven revenue management, with an emphasis on estimation methods tailored to downstream optimization. My recent work develops post-estimation adjustments within a general predict-then-optimize framework to improve downstream decisions.
     </div>
     <h1 style="margin-top:40px;font-size:2.1em;font-weight:600;">Papers</h1>
     <ol style="font-size:1.08em;line-height:1.8;color:#222;margin-bottom:40px;padding-left:22px;">
       <li style="margin-bottom:20px;">
         <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data</b><br>
         <span style="color:#555;">with <a href="https://hanshengjiang.github.io/" target="_blank" style="color:#1976d2;text-decoration:underline;">Hansheng Jiang</a>, <a href="https://www.jingwei-zhang.com/" target="_blank" style="color:#1976d2;text-decoration:underline;">Jingwei Zhang</a>, and Calvin Brown (NYC Department of Small Business Services)</span><br>
-        <i>Working in Progress</i><br>
+        <i>Work in Progress</i><br>
         <span style="color:#444;">&#9632; Invited presentation at NYC Department of City Planning</span><br>
         <span style="color:#444;">&#9632; Accepted for presentation at INFORMS 2026, RMP 2026, POMS 2026</span><br>
         <span style="color:#444;">&#9632; 2025 Rotman TD MDAL Research Grant</span>

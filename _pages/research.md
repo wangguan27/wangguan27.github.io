@@ -22,7 +22,7 @@ title: "Research"
   <div style="flex:1;min-width:0;">
     <h1 style="margin-top:0;font-size:2.1em;font-weight:600;">Research</h1>
     <div style="font-size:1.18em;line-height:1.7;color:#222;margin-bottom:32px;">
-      My research lies in data-driven revenue management, with an emphasis on translating operational data into decision-relevant estimates and models for optimization. My recent work proposes post-estimation adjustments for a general predict-then-optimize framework, with applications to pricing. In my urban retail work, I estimate a spatial choice model from large-scale mobility data and embed the resulting demand model into retail-mix optimization to guide decisions on filling vacant storefronts, in collaboration with the New York City Department of Small Business Services.
+      My research focuses on data-driven revenue management, with an emphasis on estimation methods tailored to downstream optimization. My recent work develops post-estimation adjustments within a general predict-then-optimize framework to improve downstream decisions.
     </div>
     <h2 style="margin-bottom:0.5em;">Research Interests</h2>
     <ul style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
@@ -34,7 +34,7 @@ title: "Research"
     <h2 style="margin-bottom:0.5em;">Selected Working Papers</h2>
     <ol style="font-size:1.08em;line-height:1.7;color:#222;margin-bottom:32px;">
       <li>
-        <a href="https://hanshengjiang.github.io/" target="_blank"><b>Hansheng Jiang</b></a>, <b>Guan Wang</b>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a>, Calvin Brown (NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Working in Progress</i>
+        <a href="https://hanshengjiang.github.io/" target="_blank"><b>Hansheng Jiang</b></a>, <b>Guan Wang</b>, <a href="https://www.jingwei-zhang.com/" target="_blank">Jingwei Zhang</a>, Calvin Brown (NYC Department of Small Business Services) (2026). <b>From Vacant to Vibrant: Optimizing Retail Mix with Mobility Data.</b> <i>Work in Progress</i>
         <ul>
           <li>Invited presentation at NYC Department of City Planning</li>
           <li>Accepted for presentation at INFORMS 2026, RMP 2026, POMS 2026</li>
